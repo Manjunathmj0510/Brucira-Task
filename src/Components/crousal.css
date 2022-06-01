@@ -1,0 +1,32 @@
+.image-card{
+   display: inline;
+}
+.image-details{
+    min-width:150px;
+    max-width:250px;
+    max-height: 250px;
+}
+
+.slider-container{
+margin: 3% 0 3% 10%;
+}
+
+.image-card-container{
+    height: 250px;
+    width: 300px;
+}
+.card-container-div{
+    display: inline-block;
+    max-width:250px;
+    max-height: 350px;
+    overflow: hidden;
+}
+.card-content{
+    text-align: left;
+    margin: 10px 0px;
+}
+
+.card-content-detail{
+    text-align: left;
+    font-size: 12px;
+}
