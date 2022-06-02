@@ -28,7 +28,10 @@ function Home(props) {
         Scale.Innovate.<br/>Impact the Future.</p>
         <p className='content-para'>We collaborate with start-ups and external agencies to address<br/> challenges in the steel value chain and proximate sectors.</p>
         <button className='header-button'>Apply Now</button>
-        </div><div className='image-div'><img src='' alt='dummy'/></div>
+        </div><div className='image-div'>
+        <img className='image-div-image' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUK1LaBaummJfuW6GIM_kt3R9egIlpqVpEKw&usqp=CAU' alt='dummy'/>
+        <img className='image-div-image2' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUK1LaBaummJfuW6GIM_kt3R9egIlpqVpEKw&usqp=CAU' alt='dummy'/>
+        </div>
         </div>
         </section> 
         <section className='content-details-section'>

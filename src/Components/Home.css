@@ -19,12 +19,31 @@
     color:#fff;
 }
 
+.header-items-section{
+    padding: 2% 0;
+}
+
 .header-items li{
     padding: 2%;
 }
 .header-brand-text{
     display: inline-block;
     margin: 7%;
+}
+.image-div{
+    text-align: left;
+}
+.image-div-image{
+    position:absolute;
+    top:17%;
+    width:300px;
+    left: -10%;
+}
+.image-div-image1{
+    position:relative;
+    top:15%;
+    width:300px;
+    left:10%;
 }
 .content-section{
     margin:0 0 0 12%; 
